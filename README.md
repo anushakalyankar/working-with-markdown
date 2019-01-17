@@ -44,11 +44,12 @@ Links are easy. Put the display name in square brackets first, and without leavi
 If desired, include an image title within the parenthesis after your URL. 
 Put the title in double quotes after your URL and leave a space between URL and title. 
 
-## *Item 1
+## unordered list
+   *Item 1
    *Item 2
       *Item 2a
       *Item 2b
-      
+ ## ordered list     
    *Item 1
    *Item 2
    *Item 3
