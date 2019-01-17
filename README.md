@@ -31,18 +31,27 @@ If you use VS Code, the following extensions may be helpful:
 - "Markdown Preview Enhanced"
 - "markdownlint" (recommended)
 
-## Title and Section Headings
+## Hello World
 
 The first line will be the title and the only first-level heading in your document. 
 Use a single hash to indicate the title and two hashes before each section heading. 
 
-## Adding Links
+
+
+## https://github.com/
 
 Links are easy. Put the display name in square brackets first, and without leaving any spaces, put the URL in parentheses as shown in the links section above. 
 If desired, include an image title within the parenthesis after your URL. 
 Put the title in double quotes after your URL and leave a space between URL and title. 
 
-## Ordered and Unordered Lists
+## *Item 1
+   *Item 2
+      *Item 2a
+      *Item 2b
+      
+   *Item 1
+   *Item 2
+   *Item 3
 
 Lists are easy. Put each list item on its own line, and separate each list with an empty line above and below. 
 
