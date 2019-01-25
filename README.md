@@ -34,7 +34,7 @@ If you use VS Code, the following extensions may be helpful:
 ## Hello World
 
 The first line will be the title and the only first-level heading in your document. 
-Use a single hash to indicate the title and two hashes before each section heading. 
+Use a single hash to indicate the title and two hashes before each section heading.
 
 
 
